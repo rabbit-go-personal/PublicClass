@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rabbit-go-personal/PublicClass/static/css/main.e6c13ad2.css",
+    "main.js": "/rabbit-go-personal/PublicClass/static/js/main.c4f22b6b.js",
+    "static/js/787.d179fe33.chunk.js": "/rabbit-go-personal/PublicClass/static/js/787.d179fe33.chunk.js",
+    "index.html": "/rabbit-go-personal/PublicClass/index.html",
+    "main.e6c13ad2.css.map": "/rabbit-go-personal/PublicClass/static/css/main.e6c13ad2.css.map",
+    "main.c4f22b6b.js.map": "/rabbit-go-personal/PublicClass/static/js/main.c4f22b6b.js.map",
+    "787.d179fe33.chunk.js.map": "/rabbit-go-personal/PublicClass/static/js/787.d179fe33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c4f22b6b.js"
+  ]
+}
